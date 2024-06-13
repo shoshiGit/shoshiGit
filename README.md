@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shoshi Wolpe
-- 👀 I’m interested in Challeges
-- 🌱 I’m currently learning ...
-- 💞️  I am looking to collaborate on innovative projects
+- 👀 I’m interested in Challenges
+- 🌱 I’m currently learning software engineering
+- 💞️ I am looking to collaborate on innovative projects
 - 📫 How to reach me  shoshiwolpe@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: "I'm not a nerd, I'm just smarter than you."
