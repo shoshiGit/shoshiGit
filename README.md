@@ -4,7 +4,7 @@
 - 💞️  I am looking to collaborate on innovative projects
 - 📫 How to reach me  shoshiwolpe@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: "I'm not a nerd, I'm just smarter than you."
 
 <!---
 shoshiGit/shoshiGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
