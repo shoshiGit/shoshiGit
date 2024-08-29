@@ -5,6 +5,8 @@
 - 📫 How to reach me  shoshiwolpe@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: "I'm not a nerd, I'm just smarter than you."
+- ✨ Certificates:
+- https://app.codility.com/cert/view/certD4K7RE7VERQHB55P-GWP/
 
 <!---
 shoshiGit/shoshiGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
