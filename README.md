@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Shoshi
+## 👋 Hi, I’m Shoshi
 
-👀 **I’m interested in:**  
+👀 **I’m interested in:**
 - Exploring innovative automation tools and technologies.  
 - Building meaningful connections between education and tech.  
 - Tackling challenging development projects.  
